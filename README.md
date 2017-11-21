@@ -1,4 +1,5 @@
 # ci-resource-library
+# D-Inventions Technologies Private Limited.
 Library to dynamically manage JS and CSS files in a controller
 
 
